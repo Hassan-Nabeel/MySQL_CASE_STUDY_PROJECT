@@ -9,7 +9,7 @@
   -	menu
   -	members
 
- The following topics relevant to the Danny’s Diner case study are covered lots of depth in the Serious SQL course:
+ The following topics relevant to the Danny’s Diner case study are covered lots of depth in the SQL:
    -	Common Table Expressions
    -	Group By Aggregates
    -	Window Functions for ranking
