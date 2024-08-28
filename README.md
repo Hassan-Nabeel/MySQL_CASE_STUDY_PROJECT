@@ -25,13 +25,14 @@ The README file contains the description of the following projects:
 - He has prepared for us an entity relationship diagram of his database design but requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations.
 - All datasets exist within the pizza_runner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
- Danny has shared with you 3 key datasets for this case study:
- This case study has LOTS of questions - they are broken up by area of focus including:
-  -	Pizza Metrics
-  -	Runner and Customer Experience
-  -	Ingredient Optimisation
-  -	Pricing and Ratings
-  -	Bonus DML Challenges (DML = Data Manipulation Language)
+ Danny has shared with you 5 key datasets for this case study:
+  -	runner_orders
+  -	runners
+  -	customer_orders
+  -	pizza_names
+  -	pizza_receipes
+  -	pizza_toppings
+
 
  The following topics relevant to the Pizza Runner case study are covered lots of depth in the Serious SQL course:
   -	Common table expressions
